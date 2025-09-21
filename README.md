@@ -2,17 +2,17 @@
 
 
 
-#### **English**
+#### [**English**](..\\English\\README.md)
 
 
 
-#### **Math**
+#### [**Math**](..\\Math\\README.md)
 
 
 
-#### **Computer**
+#### [**Computer**](..\\Computer\\README.md)
 
 
 
-#### **Diary**
+#### [**Diary**](..\\Diary\\README.md)
 
