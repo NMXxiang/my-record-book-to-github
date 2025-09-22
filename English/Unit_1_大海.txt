@@ -1,0 +1,15 @@
+coast	n 海岸
+coastal	adj 沿海
+toast	v 为...烤	n 庆祝	*
+roast	v 烤	n 烤肉
+sail	v 航行	*
+shore	n 海岸	*
+island	n 岛
+inland	n 内陆
+beach	n 沙滩
+bench	n 长椅
+harbour	v 庇护	n 港口
+embrace v 庇护 保护
+bay	n 海湾	*
+shelter	v 躲避	n 庇护所
+shade	n 阴凉处
