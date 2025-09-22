@@ -2,17 +2,17 @@
 
 
 
-#### [**English**](..\\English\\README.md)
+#### [English](https://github.com/NMXxiang/my-record-book-to-github/tree/main/English)
 
 
 
-#### [**Math**](..\\Math\\README.md)
+#### [Math](https://github.com/NMXxiang/my-record-book-to-github/tree/main/Math)
 
 
 
-#### [**Computer**](..\\Computer\\README.md)
+#### [Computer](https://github.com/NMXxiang/my-record-book-to-github/tree/main/Computer)
 
 
 
-#### [**Diary**](..\\Diary\\README.md)
+#### [Diary](https://github.com/NMXxiang/my-record-book-to-github/tree/main/Diary)
 
